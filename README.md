@@ -42,11 +42,17 @@ python main.py
 After running the server, open your browser and navigate to:
 `http://127.0.0.1:8000/`
 
+---
+
 ## 🧭 How to Use
 
 * **Add Stops:** While in **Mode: Add Stops,** click anywhere on the map to place nodes (`Stop_0`, `Stop_1`, etc.).
 * **Build Roads:** Click on **Mode: Link Stops (Roads).** Click a starting node, then click a target node to connect them with a road.
 
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
