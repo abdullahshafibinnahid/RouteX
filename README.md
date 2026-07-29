@@ -31,7 +31,7 @@ Make sure you have Python installed, then run this single sequence of commands i
 pip install fastapi uvicorn pydantic
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/routex-map-solver.git
+git clone https://github.com/abdullahshafibinnahid/routex-map-solver.git
 
 # Navigate to the project directory
 cd routex-map-solver
